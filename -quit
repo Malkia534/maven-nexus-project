@@ -1,0 +1,22 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Eunice Onsongo <euniceonsongo@Eunices-MacBook-Pro.local>
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   JavaWebApp/.gitignore
+#	new file:   JavaWebApp/.mvn/wrapper/MavenWrapperDownloader.java
+#	new file:   JavaWebApp/.mvn/wrapper/maven-wrapper.jar
+#	new file:   JavaWebApp/.mvn/wrapper/maven-wrapper.properties
+#	new file:   JavaWebApp/mvnw
+#	new file:   JavaWebApp/mvnw.cmd
+#	new file:   JavaWebApp/pom.xml
+#	new file:   JavaWebApp/src/main/java/com/example/demo/DemoApplication.java
+#	new file:   JavaWebApp/src/main/resources/application.properties
+#	new file:   JavaWebApp/src/test/java/com/example/demo/DemoApplicationTests.java
+#	new file:   settings.xml
+#
